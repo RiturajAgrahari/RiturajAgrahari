@@ -1,24 +1,24 @@
-## Hi, I m Rituraj :) 👋
+# Hi, I m Rituraj :) 👋
 
-### About me
+## About me
 * A Web Developer
 * A System Administrato
 * A Discord Bot Developer
 * A Fandom Wiki Developer
 
-### My Tech Stack
-#### Languages
+## My Tech Stack
+### Languages
 **Python**, **Typescript**, **HTML**, **CSS**
-#### Database Management
+### Database Management
 **MySql**
-#### Version Control 
+### Version Control 
 **Git**, **GitHub**
-#### Integrated Development Environment
+### Integrated Development Environment
 **Pycharm**, **VS Code**
-#### Frameworks
+### Frameworks
 **Djnago**, **Django Rest Framework**, **React.ts**
-#### Development Tools
+### Development Tools
 **Vite**, **Nginx**, **Gunicorn**, **Postman**
-#### Extra
+### Extra
 **Linux**
 
