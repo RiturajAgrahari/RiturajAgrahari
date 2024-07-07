@@ -1,16 +1,24 @@
 ## Hi, I m Rituraj :) 👋
 
-<!--
-**RiturajAgrahari/RiturajAgrahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+* A Web Developer
+* A System Administrato
+* A Discord Bot Developer
+* A Fandom Wiki Developer
 
-Here are some ideas to get you started:
+### My Tech Stack
+#### Languages
+**Python**, **Typescript**, **HTML**, **CSS**
+#### Database Management
+**MySql**
+#### Version Control 
+**Git**, **GitHub**
+#### Integrated Development Environment
+**Pycharm**, **VS Code**
+#### Frameworks
+**Djnago**, **Django Rest Framework**, **React.ts**
+#### Development Tools
+**Vite**, **Nginx**, **Gunicorn**, **Postman**
+#### Extra
+**Linux**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
