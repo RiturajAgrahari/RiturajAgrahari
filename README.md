@@ -14,4 +14,5 @@
 - **Frameworks :** Django, Django Rest Framework, React.ts
 - **Development Tools :** Vite, Nginx, Gunicorn, Postman
 - **Extra :** Linux
+- **Web Services :** AWS, Vultr, Sparked Host
 
