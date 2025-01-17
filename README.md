@@ -8,10 +8,10 @@
 
 ## My Tech Stack
 - **Languages :** Python, Typescript, HTML, CSS
-- **Database Management :** MySql
+- **Database Management :** MySql, PostgreSql
 - **Version Control :** Git, GitHub
 - **Integrated Development Environment :** Pycharm, VS Code
-- **Frameworks :** Djnago, Django Rest Framework, React.ts
+- **Frameworks :** Django, Django Rest Framework, React.ts
 - **Development Tools :** Vite, Nginx, Gunicorn, Postman
 - **Extra :** Linux
 
