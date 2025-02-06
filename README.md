@@ -11,7 +11,7 @@
 - **Database Management :** MySql, PostgreSql
 - **Version Control :** Git, GitHub
 - **Integrated Development Environment :** Pycharm, VS Code
-- **Frameworks :** Django, Django Rest Framework, React.ts
+- **Frameworks :** Django, Django Rest Framework, React.ts, Selenium
 - **Development Tools :** Vite, Nginx, Gunicorn, Postman
 - **Extra :** Linux
 - **Web Services :** AWS, Vultr, Sparked Host
